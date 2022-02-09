@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify_MarkupCompile.cache
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify_MarkupCompile.lref
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\bin\Debug\WpfAppInotify.exe.config
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\bin\Debug\WpfAppInotify.exe
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\bin\Debug\WpfAppInotify.pdb
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify.g.resources
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify.Properties.Resources.resources
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify.exe
+C:\Users\USER\source\repos\WpfAppInotify\WpfAppInotify\obj\Debug\WpfAppInotify.pdb
