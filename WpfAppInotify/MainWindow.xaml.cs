@@ -25,7 +25,7 @@ namespace WpfAppInotify
         {
             InitializeComponent();
             MyName name1 = new MyName("Max", "Mustermann");
-            this.DataContext = name1;
+            this.DataContext = name1;//binding data cntext 
 
         }
 

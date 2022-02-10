@@ -13,5 +13,8 @@ namespace WpfAppInotify
     /// </summary>
     public partial class App : Application
     {
+        //here will be the app
+        //some addiotional info
+
     }
 }
