@@ -12,6 +12,7 @@ namespace WpfAppInotify
         public string firstName;
         public string secondName;
         public string fullName;
+        //properties 
         public MyName(string firstName, string secondName)
         {
             this.firstName = firstName;
